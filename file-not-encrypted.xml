@@ -1,1 +1,3 @@
 Hello this is not encypted because it's out of gitattributes
+
+This will make git-crypt to trigger, since in previous commit we enabled gitattributes
