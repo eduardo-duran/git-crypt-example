@@ -1,0 +1,3 @@
+ecretfile filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+*.sh filter=git-crypt diff=git-crypt
